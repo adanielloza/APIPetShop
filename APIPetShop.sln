@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPetShop", "APIPetShop\APIPetShop.csproj", "{33B77C0E-1EFF-4560-A543-62C938036B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B77C0E-1EFF-4560-A543-62C938036B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B77C0E-1EFF-4560-A543-62C938036B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B77C0E-1EFF-4560-A543-62C938036B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B77C0E-1EFF-4560-A543-62C938036B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E1D3A8-7FEB-45B7-9AA6-25FBB5BE3E6A}
+	EndGlobalSection
+EndGlobal
